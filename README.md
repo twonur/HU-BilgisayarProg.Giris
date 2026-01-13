@@ -1,4 +1,4 @@
-# Hacettepe Üniversitesi - Bilgisayar Programlamaya Giriş (C)
+# Hacettepe Üniversitesi - Bilgisayar Programlamaya Giriş
 
 Bu depo, Hacettepe Üniversitesi istatistik bölümünde verilen **Bilgisayar Programlamaya Giriş** dersi kapsamında tuttuğum notları, yazdığım kodları ve sınav hazırlık materyallerini içermektedir.
 
@@ -21,7 +21,7 @@ Final sınavı öncesi çıkmış sorulara örnek:
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-Kodları lokalinizde çalıştırmak için bir C derleyicisine (GCC önerilir) ihtiyacınız vardır.
+Kodları lokalinizde çalıştırmak için bir C derleyicisine (Dev-C++) ihtiyacınız vardır.
 
 1. **Depoyu indirmek için:**
    ```bash
