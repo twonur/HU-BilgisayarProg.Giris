@@ -4,7 +4,7 @@ Bu dosya, **Hacettepe Üniversitesi İstatistik Bölümü** - Bilgisayar Program
 
 ---
 
-### SORU - 1
+-### SORU - 1
 Klavyeden girilen bir `n` tam sayısına göre aşağıdaki toplamı yapan ve ciktidaki gibi gosteren kodu yazin.
 
 **Formül:**
@@ -16,7 +16,7 @@ $$1 + \frac{2}{3} + \frac{3}{4} + \dots + \frac{n}{n+1} = \\#.\\#\\#\\#$$
 
 ---
 
-### SORU - 2
+-### SORU - 2
 Bu kodun ciktisi nedir? Eger hata veriyorsa nedeni nedir?
 
 ```
@@ -39,7 +39,9 @@ int main(){
 
 ---
 
-### SORU - 3
+-### SORU - 3
+> [!NOTE]
+> Bu sorudaki şıklar tamamen kendi türetmemdir.
 Mantıksal soruları C diline göre cevaplayınız. Matematiksel olarak `true` 1, `false` ise 0 olarak kabul edilir.
 
 **Değişkenler:**
@@ -58,7 +60,7 @@ Mantıksal soruları C diline göre cevaplayınız. Matematiksel olarak `true` 1
 
 ---
 
-### SORU - 4
+-### SORU - 4
 Aşağıdaki tablo otopark saatlik ücretlerini gösteriyor. Kullanıcıdan alınan `float` tipi bir zaman ile kullanıcıya kaç TL ödemesi gerektiğini gösteren kodu yazın.
 
 | Kalış Süresi | Ücret (TL) |
