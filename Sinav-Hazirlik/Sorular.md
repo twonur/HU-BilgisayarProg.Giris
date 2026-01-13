@@ -3,8 +3,8 @@
 Bu dosya, **Hacettepe Üniversitesi İstatistik Bölümü** - Bilgisayar Programlamaya Giriş (C Dili) dersi final sınavı hazırlık sorularını ve çözümlerini içermektedir.
 
 ---
-```diff
-- ### SORU - 1
+
+$\color{red}\text{### SORU - 1}$
 Klavyeden girilen bir `n` tam sayısına göre aşağıdaki toplamı yapan ve ciktidaki gibi gosteren kodu yazin.
 
 **Formül:**
@@ -16,7 +16,7 @@ $$1 + \frac{2}{3} + \frac{3}{4} + \dots + \frac{n}{n+1} = \\#.\\#\\#\\#$$
 
 ---
 
--### SORU - 2
+### SORU - 2
 Bu kodun ciktisi nedir? Eger hata veriyorsa nedeni nedir?
 
 ```
