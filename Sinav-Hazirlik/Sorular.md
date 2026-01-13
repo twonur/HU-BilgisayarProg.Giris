@@ -53,7 +53,7 @@ Mantıksal soruları C diline göre cevaplayınız. Matematiksel olarak `true` 1
 
 | Şık | Önerme | Sonuç |
 | :---: | :--- | :---: |
-| **a)** | `b + s > d - 2` | **1** |
+| **a)** | `(int)t / (int)k + (d > s)` | **3** |
 | **b)** | `(d % s) && (s > b)` | **1** |
 | **c)** | `(d % s) * 5` | **10** |
 | **d)** | `(b + s) > d` | **0** |
