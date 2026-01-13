@@ -5,18 +5,22 @@ Bu dosya, **Hacettepe Üniversitesi İstatistik Bölümü** - Bilgisayar Program
 ---
 
 ### $\color{red}\text{SORU - 1}$
-Klavyeden girilen bir `n` tam sayısına göre aşağıdaki toplamı yapan ve ciktidaki gibi gosteren kodu yazin.
+Klavyeden girilen bir `n` tam sayısına göre aşağıdaki toplamı yapan ve örnek çıktıdaki gibi gosteren kodu yazin.
 
 **Formül:**
 $$1 + \frac{2}{3} + \frac{3}{4} + \dots + \frac{n}{n+1} = \\#.\\#\\#\\#$$
 
-* **Örnek Çıktı (n=3):** `1 + 2/3 + 3/4 = 2.417`
+* **Örnek Çıktı :**
+* ```
+  n = 3
+  1 + 2/3 + 3/4 = 2.417
+* ```
 
 👉 [**Çözüm Kodu: soru1.c**](./soru1.c)
 
 ---
 
-### SORU - 2
+### $\color{red}\text{SORU - 2}$
 Bu kodun ciktisi nedir? Eger hata veriyorsa nedeni nedir?
 
 ```
@@ -39,7 +43,7 @@ int main(){
 
 ---
 
--### SORU - 3
+### $\color{red}\text{SORU - 3}$
 > [!NOTE]
 > Bu sorudaki şıklar tamamen kendi türetmemdir.
 
@@ -61,7 +65,7 @@ Mantıksal soruları C diline göre cevaplayınız. Matematiksel olarak `true` 1
 
 ---
 
--### SORU - 4
+### $\color{red}\text{SORU - 4}$
 Aşağıdaki tablo otopark saatlik ücretlerini gösteriyor. Kullanıcıdan alınan `float` tipi bir zaman ile kullanıcıya kaç TL ödemesi gerektiğini gösteren kodu yazın.
 
 | Kalış Süresi | Ücret (TL) |
