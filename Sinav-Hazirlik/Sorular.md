@@ -4,7 +4,7 @@ Bu dosya, **Hacettepe Üniversitesi İstatistik Bölümü** - Bilgisayar Program
 
 ---
 
-$\color{red}\text{\#\#\# SORU - 1}$
+### $\color{red}\text{SORU - 1}$
 Klavyeden girilen bir `n` tam sayısına göre aşağıdaki toplamı yapan ve ciktidaki gibi gosteren kodu yazin.
 
 **Formül:**
