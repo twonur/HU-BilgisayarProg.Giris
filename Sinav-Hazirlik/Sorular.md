@@ -55,8 +55,8 @@ Mantıksal soruları C diline göre cevaplayınız. Matematiksel olarak `true` 1
 | :---: | :--- | :---: |
 | **a)** | `b + s > d - 2` | **1** |
 | **b)** | `(d % s) && (s > b)` | **1** |
-| **c)** | `d / (int)k == s - b` | **1** |
-| **d)** | `--d > s \|\| b++ == 2` | **1** |
+| **b)** | `(d % s) * 5` | $(5 \% 3) * 5 \Rightarrow 2 * 5$ | **10** |
+| **a)** | `(b + s) > d` | $1 + 3 > 5 \Rightarrow 4 > 5$ | **0** |
 | **f)** | `++a && b--` | **1** |
 
 👉 [**Çözüm Kodu: soru3.c**](./soru3.c)
