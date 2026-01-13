@@ -1,4 +1,4 @@
-# Hacettepe Üniversitesi - Bilgisayar Programlamaya Giriş (C)
+# Hacettepe Üniversitesi - Bilgisayar Programlamaya Giriş
 
 Bu depo, Hacettepe Üniversitesi istatistik bölümünde verilen **Bilgisayar Programlamaya Giriş** dersi kapsamında tuttuğum notları, yazdığım kodları ve sınav hazırlık materyallerini içermektedir.
 
