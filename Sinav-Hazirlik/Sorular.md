@@ -8,7 +8,7 @@ Bu dosya, **Hacettepe Üniversitesi İstatistik Bölümü** - Bilgisayar Program
 Klavyeden girilen bir `n` tam sayısına göre aşağıdaki toplamı yapan ve ciktidaki gibi gosteren kodu yazin.
 
 **Formül:**
-$$1 + \frac{2}{3} + \frac{3}{4} + \dots + \frac{n}{n+1} = \#.###$$
+$$1 + \frac{2}{3} + \frac{3}{4} + \dots + \frac{n}{n+1} = \#.\#\#\#$$
 
 * **Örnek Çıktı (n=3):** `1 + 2/3 + 3/4 = 2.417`
 
