@@ -19,7 +19,7 @@ $$1 + \frac{2}{3} + \frac{3}{4} + \dots + \frac{n}{n+1} = #.###$$
 ### SORU - 2
 Bu kodun ciktisi nedir? Eger hata veriyorsa nedeni nedir?
 
-```c
+```
 int main(){
     int i, j, z;
     int a[] = {8, 2, 9, 6};
@@ -33,6 +33,7 @@ int main(){
         printf("%d ", z);
     }
 }
+```
 **Cevap**: Hatalı değildir, çıktısı 2 0 1 0 olur.
 👉 [**Çözüm Kodu: soru2.c**](./soru2.c)
 
