@@ -37,6 +37,7 @@ int main(){
 }
 ```
 **Cevap**: Hatalı değildir, çıktısı 2 0 1 0 olur.
+
 👉 [**Çözüm Kodu: soru2.c**](./soru2.c)
 
 ---
