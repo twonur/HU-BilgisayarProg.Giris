@@ -46,7 +46,8 @@ int main(){
 > [!NOTE]
 > Bu sorudaki şıklar tamamen kendi türetmemdir.
 
-Mantıksal soruları C diline göre cevaplayınız. Matematiksel olarak `true` 1, `false` ise 0 olarak kabul edilir.
+Mantıksal sorularını ve Matematiksel işlemleri C diline göre cevaplayınız.
+Matematiksel olarak `true` 1, `false` ise 0 olarak kabul edilir.
 
 **Değişkenler:**
 * `int b = 1, s = 3, d = 5;`
