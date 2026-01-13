@@ -6,17 +6,9 @@ Bu depo, Hacettepe Üniversitesi istatistik bölümünde verilen **Bilgisayar Pr
 
 Projeyi daha rahat takip edebilmeniz için klasör yapısı aşağıdaki gibidir:
 
-* **/Ders-Notlari:** Ders esnasında alınan teorik notlar ve küçük örnek kodlar.
-* **/Sınav-Hazirlik:** 2025 donemi benzer final sınavi ornegi.
+* 📂 [**Ders Notları**](./Ders-Notlari/Dersler.md) Ders esnasında alınan teorik notlar ve küçük örnek kodlar.
+* 📂 [**Final Hazırlık Soruları ve Çözümleri**](./Sinav-Hazirlik/Sorular.md) 2025 Dönemi benzer final sınavı örneği.
   
----
-
-## 🚀 Final Hazırlık Materyalleri
-
-Final sınavı öncesi çıkmış sorulara örnek:
-
-* 📂 [**Sınav Hazırlık Soruları ve Çözümleri**](./Sinav-Hazirlik/Sorular.md)
-
 ---
 
 ## 🛠️ Kurulum ve Çalıştırma
