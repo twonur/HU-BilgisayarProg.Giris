@@ -65,7 +65,7 @@ Matematiksel olarak `true` 1, `false` ise 0 olarak kabul edilir.
 
 ### $\color{red}\text{SORU - 4}$
 Aşağıdaki tablo otopark saatlik ücretlerini gösteriyor. Kullanıcıdan alınan `float` tipi bir zaman ile kullanıcıya kaç TL ödemesi gerektiğini gösteren kodu yazın.
-Örneğin kullanıcı zaman olarak 2:30 saat kaldiysa zamana değişkenine 2.5 giricek. Bu tablo disindaki girilen saat ise doğru girilene kadar sureyi tekrar  kullanıcıdan istemeli.
+Örneğin kullanıcı zaman olarak 2:30 saat kaldiysa süre değişkenine 2.5 giricek. Bu tablo dışındaki girilen süre ise doğru girilene kullanıcıdan tekrar istenmeli.
 
 | Kalış Süresi | Ücret (TL) |
 | :--- | :--- |
