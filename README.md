@@ -21,7 +21,7 @@ Final sınavı öncesi çıkmış sorulara örnek:
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-Kodları lokalinizde çalıştırmak için bir C derleyicisine (GCC önerilir) ihtiyacınız vardır.
+Kodları lokalinizde çalıştırmak için bir C derleyicisine (Dev-C++) ihtiyacınız vardır.
 
 1. **Depoyu indirmek için:**
    ```bash
