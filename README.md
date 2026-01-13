@@ -4,7 +4,7 @@ Bu depo, Hacettepe Üniversitesi istatistik bölümünde verilen **Bilgisayar Pr
 
 ## 📁 Depo Yapısı
 
-Projeyi daha rahat takip edebilmeniz için klasör yapısı aşağıdaki gibidir:
+Bu depo içindekiler:
 
 * 📂 [**Ders Notları**](./Ders-Notlari/Dersler.md) Ders esnasında alınan teorik notlar ve küçük örnek kodlar.
 * 📂 [**Final Hazırlık Soruları ve Çözümleri**](./Sinav-Hazirlik/Sorular.md) 2025 Dönemi benzer final sınavı örneği.
