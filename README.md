@@ -25,4 +25,4 @@ Kodları lokalinizde çalıştırmak için bir C derleyicisine (GCC önerilir) i
 
 1. Depoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullanici-adiniz/hacettepe-c-programming.git](https://github.com/kullanici-adiniz/hacettepe-c-programming.git)
+   git clone https://github.com/twonur/HU-BilgisayarProg.Giris.git
