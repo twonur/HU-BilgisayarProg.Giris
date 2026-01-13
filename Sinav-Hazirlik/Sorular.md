@@ -61,8 +61,6 @@ Matematiksel olarak `true` 1, `false` ise 0 olarak kabul edilir.
 | **d)** | `(b + s) > d` | **0** |
 | **f)** | `++a && b--` | **1** |
 
-👉 [**Çözüm Kodu: soru3.c**](./soru3.c)
-
 ---
 
 ### $\color{red}\text{SORU - 4}$
