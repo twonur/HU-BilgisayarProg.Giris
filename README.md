@@ -25,4 +25,4 @@ Kodları lokalinizde çalıştırmak için bir C derleyicisine (GCC önerilir) i
 
 1. **Depoyu indirmek için:**
    ```bash
-  git clone [https://github.com/twonur/HU-BilgisayarProg.Giris.git](https://github.com/twonur/HU-BilgisayarProg.Giris.git)
+    git clone [https://github.com/twonur/HU-BilgisayarProg.Giris.git](https://github.com/twonur/HU-BilgisayarProg.Giris.git)
