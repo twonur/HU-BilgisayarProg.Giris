@@ -3,8 +3,8 @@
 Bu dosya, **Hacettepe Üniversitesi İstatistik Bölümü** - Bilgisayar Programlamaya Giriş (C Dili) dersi final sınavı hazırlık sorularını ve çözümlerini içermektedir.
 
 ---
-
--### SORU - 1
+```diff
+- ### SORU - 1
 Klavyeden girilen bir `n` tam sayısına göre aşağıdaki toplamı yapan ve ciktidaki gibi gosteren kodu yazin.
 
 **Formül:**
@@ -42,6 +42,7 @@ int main(){
 -### SORU - 3
 > [!NOTE]
 > Bu sorudaki şıklar tamamen kendi türetmemdir.
+
 Mantıksal soruları C diline göre cevaplayınız. Matematiksel olarak `true` 1, `false` ise 0 olarak kabul edilir.
 
 **Değişkenler:**
