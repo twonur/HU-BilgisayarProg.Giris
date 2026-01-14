@@ -12,7 +12,7 @@
 // ============================================================================
 // Üç farklı boy uzunluğunun cm cinsinden ortalaması
 
-/*
+
 #include <stdio.h>
 
 main(){
@@ -28,7 +28,7 @@ main(){
 	
 	printf("\nBoy uzunluklarin ortalamasi %.2f cm dir", ort);
 }
-*/
+
 
 
 // ============================================================================
@@ -37,7 +37,7 @@ main(){
 // Silindir hacmi formülü: V = π × r² × h
 // π = 3.14, r = yarıçap, h = yükseklik
 
-/*
+
 #include <stdio.h>
 main(){
 	float r,h,hacmi,pi;
@@ -52,7 +52,7 @@ main(){
 	
 	printf("\nSilindirin hacmi = %.2f cm^3", hacmi);
 }
-*/
+
 
 
 // ============================================================================

@@ -14,7 +14,7 @@
 // ============================================================================
 // Varyans formülü: Var = [(x1-ort)² + (x2-ort)² + (x3-ort)²] / n
 
-/*
+
 #include <stdio.h>
 #include <math.h>     // pow() fonksiyonu için
 
@@ -34,7 +34,7 @@ main(){
 	printf("Oralama: %.2f", ort);
 	printf("\nVaryans: %.2f", var);
 }
-*/
+
 
 
 // ============================================================================
@@ -43,7 +43,7 @@ main(){
 // Vize ve final ortalamasına göre harf notu belirleme
 // && operatörü: İki koşul da doğru olmalı
 
-/*
+
 #include <stdio.h>
 main(){
 	float v, f, ort;
@@ -67,7 +67,7 @@ main(){
 	else
 		printf("Gecersiz");    // 0-100 dışı değerler için
 }
-*/
+
 
 
 /* ============================================================================
@@ -99,7 +99,7 @@ main(){
 // ============================================================================
 // Kullanıcının girdiği karakteri kontrol etme
 
-/*
+
 #include <stdio.h>
 main(){
 	char x;
@@ -116,7 +116,7 @@ main(){
 			printf("\nHic birini girmediniz");
 	}
 }
-*/
+
 
 
 /* ============================================================================
@@ -147,7 +147,7 @@ main(){
 // ============================================================================
 // for döngüsü ile ekrana tekrarlı yazma
 
-/*
+
 #include <stdio.h>
 main(){
 	int x,i;
@@ -158,7 +158,7 @@ main(){
 	for(i=1; i<=x; i++)
 		printf("fenerbahce\n");    // x kez yazdırılır
 }
-*/
+
 
 
 // ============================================================================
@@ -166,7 +166,7 @@ main(){
 // ============================================================================
 // Kullanıcıdan N adet sayı alıp toplamını hesaplama
 
-/*
+
 #include <stdio.h>
 main(){
 	float toplam,x;
@@ -185,7 +185,7 @@ main(){
 	
 	printf("Sayilarin toplami %.2f", toplam);
 }
-*/
+
 
 
 // ============================================================================

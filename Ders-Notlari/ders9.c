@@ -16,7 +16,7 @@
 // İkizkenar: İki kenar eşit
 // Çeşitkenar: Hiçbir kenar eşit değil
 
-/*
+
 #include <stdio.h>
 main(){
 	float x,y,z;
@@ -42,7 +42,7 @@ main(){
 		printf("\nBu bir ucgen degildir\n");    // Üçgen kuralı sağlanmıyor
 	}
 }
-*/
+
 
 
 // ============================================================================
@@ -50,7 +50,7 @@ main(){
 // ============================================================================
 // Tüm olası durumları kontrol ederek sıralama yapma
 
-/*
+
 #include <stdio.h>
 main(){
 	int x,y,z;
@@ -87,7 +87,7 @@ main(){
 	}
 }
 
-*/
+
 
 
 // ============================================================================

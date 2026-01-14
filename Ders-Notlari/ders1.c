@@ -19,12 +19,12 @@
 // printf() fonksiyonu ekrana metin yazdırmak için kullanılır
 // \n karakteri alt satıra geçiş yapar
 
-/*
+
 #include <stdio.h>
 main(){
 	printf("*** C de ilk program***\n");
 }
-*/
+
 
 
 // ============================================================================
@@ -34,7 +34,7 @@ main(){
 // %d: Tam sayı değerleri yazdırmak için format belirleyici
 // getch(); fonksiyonu programı durdurur ve bir tuşa basılmasını bekler
 
-/*
+
 #include <stdio.h>
 main()
 {
@@ -42,7 +42,7 @@ main()
 	a=20;         // Değişkene değer atama
 	printf("a sayisinin degeri: %d",a);  // Değişkeni ekrana yazdırma
 }
-*/
+
 
 
 // ============================================================================

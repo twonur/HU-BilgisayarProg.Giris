@@ -13,7 +13,7 @@
 // ============================================================================
 // Mod operatörü (%) ile tek/çift kontrolü
 
-/*
+
 #include <stdio.h>
 main(){
 	int i, tek_toplam=0, cift_toplam=0;
@@ -29,7 +29,7 @@ main(){
 	printf("Tek sayilarin toplami = %d\n", tek_toplam);
 	printf("Cift sayilarin toplami = %d\n", cift_toplam);
 }
-*/
+
 
 
 // ============================================================================
@@ -37,7 +37,7 @@ main(){
 // ============================================================================
 // Toplam ve ortalama hesabı birlikte
 
-/*
+
 #include <stdio.h>
 main(){
 	int i, tek_toplam=0, cift_toplam=0;
@@ -58,7 +58,7 @@ main(){
 	printf("Tek sayilarin toplami = %d ve ortalamasi = %.2f\n", tek_toplam, tek_toplam/x);
 	printf("Cift sayilarin toplami = %d ve ortalamasi = %.2f", cift_toplam, cift_toplam/y);
 }
-*/
+
 
 
 // ============================================================================
@@ -66,7 +66,7 @@ main(){
 // ============================================================================
 // && operatörü ile çoklu koşul kontrolü
 
-/*
+
 #include<stdio.h>
 main(){
 	int sayi,i;
@@ -81,7 +81,7 @@ main(){
 		}
 	}
 }
-*/
+
 
 
 // ============================================================================
@@ -89,7 +89,7 @@ main(){
 // ============================================================================
 // Girdi doğrulama eklendi
 
-/*
+
 #include<stdio.h>
 main(){
 	int sayi,i;
@@ -106,7 +106,7 @@ main(){
 	else
 		printf("hatali veri giriniz");
 }
-*/
+
 
 
 // ============================================================================
@@ -114,7 +114,7 @@ main(){
 // ============================================================================
 // Döngü içinde minimum değeri güncelleme
 
-/*
+
 #include<stdio.h>
 main(){
 	int n,i,enk,sayi;
@@ -134,7 +134,7 @@ main(){
 	
 	printf("en kucu sayi %d",enk);
 }
-*/
+
 
 
 // ============================================================================

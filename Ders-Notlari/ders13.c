@@ -13,7 +13,7 @@
 // Triangular sayılar: Tn = n(n+1)/2
 // İlk terimler: 1, 3, 6, 10, 15, 21, 28...
 
-/*
+
 #include <stdio.h>
 main(){
 	int i,n,Tn;
@@ -26,7 +26,7 @@ main(){
 		printf("%d ", Tn);
 	}
 }
-*/
+
 
 
 // ============================================================================
@@ -35,7 +35,7 @@ main(){
 // Harmonik dizi: 1/1, 1/2, 1/3, 1/4, 1/5...
 // Hn = 1/n,  Toplam = H1 + H2 + H3 + ... + Hn
 
-/*
+
 #include <stdio.h>
 main(){
 	int n;
@@ -54,7 +54,6 @@ main(){
 	
 	printf("\n\nHarmonik dizi degeri: %.6f",sum);
 }
-*/
 
 
 // ============================================================================

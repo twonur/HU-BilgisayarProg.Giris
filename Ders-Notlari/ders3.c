@@ -14,7 +14,7 @@
 // scanf() fonksiyonu kullanıcıdan klavyeden veri girmesini sağlar
 // & işareti değişkenin bellek adresini gösterir
 
-/*
+
 #include <stdio.h>
 
 main(){
@@ -26,7 +26,7 @@ main(){
 	printf("\n");
 	printf("Girilen sayi = %d\n",deger);
 }
-*/
+
 
 
 // ============================================================================
@@ -34,7 +34,7 @@ main(){
 // ============================================================================
 // Birden fazla scanf kullanarak iki değer alma ve çıkarma işlemi
 
-/*
+
 #include <stdio.h>
 
 main(){
@@ -50,7 +50,7 @@ main(){
 	
 	printf("Ikis sayinin farki = %d", c);
 }
-*/
+
 
 
 // ============================================================================
@@ -58,7 +58,7 @@ main(){
 // ============================================================================
 // Geometrik hesaplama örneği
 
-/*
+
 #include <stdio.h>
 
 main(){
@@ -71,7 +71,7 @@ main(){
 	
 	printf("DIkdortgenin cevresi = %d", c);
 }
-*/
+
 
 
 /* ============================================================================
@@ -107,7 +107,7 @@ main(){
 // float kullanarak ondalıklı sonuç elde etme
 // %6.2f: 6 karakter genişlik, virgülden sonra 2 basamak
 
-/*
+
 #include <stdio.h>
 
 main(){
@@ -126,7 +126,7 @@ main(){
 	 * f  = Float/ondalıklı sayı
 	 */
 }
-*/
+
 
 
 // ============================================================================
@@ -135,7 +135,7 @@ main(){
 // Sabit KDV oranı ile satış fiyatı hesaplama
 // #define kullanarak global sabit tanımlanabilir: #define kdvOrani 0.18
 
-/*
+
 #include <stdio.h>
 
 main(){
@@ -151,7 +151,7 @@ main(){
 }
 
 // NOT: #define kdvOrani 0.18 şeklinde tanimlarsak global sabit olur
-*/
+
 
 
 // ============================================================================

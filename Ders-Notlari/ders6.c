@@ -13,7 +13,7 @@
 // ============================================================================
 // char dizisi (array) ile metin saklama
 
-/*
+
 #include <stdio.h>
 
 main(){
@@ -28,7 +28,7 @@ main(){
 	// %s: string (metin) yazdırmak için format belirleyici
 	printf("\n%s ve %s arasindaki uzaklik %d kilometredir.", x,y,z);
 }
-*/
+
 
 
 /* ============================================================================
@@ -62,7 +62,7 @@ main(){
  *       yanlışsa yapılacak işlemler;
  *    }
  * 
- * 3) if-else if-else:
+ * 3) if - else if - else:
  *    if(kosul1){
  *       ...
  *    }
@@ -82,7 +82,7 @@ main(){
 // ============================================================================
 // Üç ayrı if ile üç farklı koşul kontrol ediliyor
 
-/*
+
 #include <stdio.h>
 main(){
 	int x;
@@ -99,7 +99,7 @@ main(){
 		
 	// NOT: Tek satır işlem olduğu için {} kullanmaya gerek yok
 }
-*/
+
 
 
 // ============================================================================
@@ -107,7 +107,7 @@ main(){
 // ============================================================================
 // Öğrenci notunu hesaplayıp başarılı/başarısız kontrolü
 
-/*
+
 #include <stdio.h>
 main(){
 	int v1, v2, final;
@@ -130,7 +130,7 @@ main(){
 		printf("Basarisiz");
 	}
 }
-*/
+
 
 
 // ============================================================================
@@ -140,7 +140,7 @@ main(){
 // 1) Üç ayrı if (verimsiz)
 // 2) if-else if-else (önerilen)
 
-/*
+
 #include <stdio.h>
 main(){
 	int x,y;
@@ -148,7 +148,7 @@ main(){
 	printf("2. sayiyi giriniz: ");scanf("%d", &y);
 	printf("\n");
 	
-	// YÖNTEM 1: Üç ayrı if (verimsiz - her koşul kontrol edilir)
+	/* YÖNTEM 1: Üç ayrı if (verimsiz - her koşul kontrol edilir)
 	// -------------------------
 	if(x>y){
 		printf("%d > %d", x,y);
@@ -160,6 +160,7 @@ main(){
 		printf("%d = %d", x,y);
 	}
 	// -------------------------
+	*/
 	
 	// YÖNTEM 2: if-else if-else (verimli - bir koşul tutunca diğerleri kontrol edilmez)
 	if(x==y)
@@ -169,10 +170,7 @@ main(){
 	else
 		printf("%d < %d", x,y);
 }
-*/
-		printf("%d < %d", x,y);
-}
-*/
+
 
 
 // ============================================================================

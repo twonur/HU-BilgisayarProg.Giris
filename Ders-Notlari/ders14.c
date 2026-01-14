@@ -13,7 +13,7 @@
 // ============================================================================
 // İç içe döngü ile her satır bir öncekinden daha az karakter içeren üçgen
 
-/*
+
 #include <stdio.h>
 main(){
 	int n,satir,sutun;
@@ -31,7 +31,7 @@ main(){
 		printf("\n");    // Satır sonu
 	}
 }
-*/
+
 
 
 // ============================================================================
@@ -39,7 +39,7 @@ main(){
 // ============================================================================
 // Sadece kenarları dolu, içi boş kare
 
-/*
+
 #include <stdio.h>
 main()
 {
@@ -62,7 +62,7 @@ main()
 		printf("\n");
 	}
 }
-*/
+
 
 
 /* ============================================================================
@@ -98,20 +98,32 @@ main(){
 	}
 }
 
-/*
+
+
+// ============================================================================
+// ÖRNEK 4: İşaretli Seri Toplamı
+// ============================================================================
+// 1/3 + 3/5 - 5/7 + 7/9 - ... formatında işaret değiştiren seri
+// Çift indekslerde (+), tek indekslerde (-) işareti
+
 #include <stdio.h>
 main(){
 	int n,i;
 	float x=1,y=3,s=0;
+	
 	printf("Kacinci terime kadar seri toplami hesaplansin: ");scanf("%d",&n);
-	s = x/y ;
+	
+	s = x/y;    // İlk terim: 1/3
 	printf("s = %.0f/%.0f ", x,y);
+	
 	for(i=2;i<=n;i++){
 		if(i%2==0){
+			// Çift sırada: toplama
 			s += (x+2)/(y+2);
 			printf("+ %.0f/%.0f ",x+2,y+2);
 		}
 		else{
+			// Tek sırada: çıkarma
 			s -= (x+2)/(y+2);
 			printf("- %.0f/%.0f ",x+2,y+2);
 		}
@@ -120,4 +132,4 @@ main(){
 		y+=2;
 	}
 	printf("\nSerinin sonucu = %.2f", s);
-}*/
+}

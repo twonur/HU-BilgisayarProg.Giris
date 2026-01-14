@@ -14,7 +14,7 @@
 // Standart sapma = sqrt(varyans)
 // Varyans = [(x1-ort)² + (x2-ort)² + ... ] / n
 
-/*
+
 #include <stdio.h>
 #include <math.h>      // pow() ve sqrt() için
 
@@ -36,7 +36,7 @@ main(){
 	printf("Ortalama: %.3f", ort);
 	printf("\nStandart sapma: %.3f", standarts);
 }
-*/
+
 
 
 // ============================================================================
@@ -45,7 +45,7 @@ main(){
 // Verilen mesafeyi ve süreyi kullanarak gerekli hızı bulma
 // Formül: Hız = Yol / Zaman
 
-/*
+
 #include <stdio.h>
 main(){
 	float yol,zaman,hiz;
@@ -57,7 +57,7 @@ main(){
 	
 	printf("%.2f, kilometreyi %.2f saate gidebilmeniz icin hiziniz %.2f km/sa olmalidir", yol,zaman,hiz);
 }
-*/
+
 
 
 // ============================================================================
@@ -65,7 +65,7 @@ main(){
 // ============================================================================
 // F(x) = ax³ - bx² + cx - d fonksiyonunun belirli bir x için değerini hesaplama
 
-/*
+
 #include <stdio.h>
 #include <math.h>
 main(){
@@ -89,7 +89,7 @@ main(){
 	
 	printf("Sonuc= %.2f", fonk); 
 }
-*/
+
 
 
 // ============================================================================

@@ -38,7 +38,7 @@ main(){
 // ============================================================================
 // Dış döngü: Satırlar, İç döngü: Sütunlar
 
-/*
+
 #include <stdio.h>
 main(){
 	int a,b,i,j;
@@ -54,7 +54,7 @@ main(){
 		printf("\n");    // Satır sonu
 	}
 }
-*/
+
 
 
 // ============================================================================
@@ -62,7 +62,7 @@ main(){
 // ============================================================================
 // i+=2 ile ikişer ikişer artırma
 
-/*
+
 #include <stdio.h>
 main(){
 	int i,sayi;
@@ -74,7 +74,7 @@ main(){
 		printf("%d \n",i);
 	}
 }
-*/
+
 
 
 /* ============================================================================
@@ -94,7 +94,7 @@ main(){
 // ============================================================================
 // for yerine while kullanımı
 
-/*
+
 #include <stdio.h>
 main(){
 	int sayi,i=0;     // i'yi döngü dışında tanımla
@@ -107,7 +107,7 @@ main(){
 		i+=2;    // Artırımı manuel yapmalıyız
 	}
 }
-*/
+
 
 
 // ============================================================================
@@ -116,7 +116,7 @@ main(){
 // Öğrenci notlarını alıp başarı yüzdesini hesaplama
 // Başarı notu: 65 ve üstü
 
-/*
+
 #include <stdio.h>
 main(){
 	int i=1,basari=0;
@@ -139,4 +139,4 @@ main(){
 	yuzde = basari/sayi;
 	printf("Sinifin basari yuzdesi = %.2f", yuzde);
 }
-*/
+

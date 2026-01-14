@@ -13,7 +13,7 @@
 // ============================================================================
 // İki tam sayı toplanıp sonuç ekrana yazdırılıyor
 
- /*
+ 
  #include <stdio.h>
  
  int a, b, toplam;      // Global değişken tanımlama
@@ -25,7 +25,7 @@
  	
  	printf("Iki sayinin toplami = %d", toplam);
  }
- */
+ 
  
  
 // ============================================================================
@@ -33,7 +33,7 @@
 // ============================================================================
 // \n karakteri ile alt satıra geçiş yapılarak çıktı düzenleniyor
 
-/*
+
 #include <stdio.h>
 main (){
 	int a,b,c;         // Üç tam sayı değişkeni tanımlama
@@ -46,7 +46,7 @@ main (){
 	printf("Ikinci  sayi = %d \n\n", b);     // \n\n ile iki satır boşluk
 	printf("Iki sayinin carpimi = %d", c);
 }
-*/
+
 
 
 // ============================================================================
@@ -54,7 +54,7 @@ main (){
 // ============================================================================
 // Çıkarma işlemi ve tek satırda birden fazla değişken yazdırma
 
-/*
+
 #include <stdio.h>
 main(){
 	int a,b,c;
@@ -65,4 +65,4 @@ main(){
 	// Tek printf ile tüm sonucu gösterme
 	printf("%d - %d = %d", a,b,c);
 }
-*/
+

@@ -13,7 +13,7 @@
 // Problem: İki tam sayının bölümünü ondalıklı sonuç olarak almak
 // Çözüm: (float) ile tip dönüşümü yaparak ondalıklı sonuç elde etmek
 
-/*
+
 #include <stdio.h>
 main()
 {
@@ -27,7 +27,7 @@ main()
 	
 	printf("Bolmun sonucu: %.3f", sonuc);   // %.3f: 3 ondalık basamak
 }
-*/
+
 
 
 // ============================================================================
@@ -36,7 +36,7 @@ main()
 // Problem: Kullanıcıdan hem fiyat hem KDV oranını alarak satış fiyatını bul
 // KDV oranı % olarak girilecek (örn: 18 girilirse %18)
 
-/*
+
 #include <stdio.h>
 main(){
 	float kdvOrani, fiyat, satisFiyati, kdv;
@@ -49,7 +49,7 @@ main(){
 	
 	printf("Satis fiyatiniz: %.2f", satisFiyati);
 }
-*/
+
 
 
 // ============================================================================
